@@ -4,3 +4,12 @@ body {
   font-family: sans-serif;
   background: #32a883;
 }
+
+.main-heading{
+	float : left;
+	margin-top: 8px;
+}
+
+.search-input{
+	float : right;
+}
